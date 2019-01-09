@@ -1,5 +1,16 @@
 {   
-  "acces": [ {
+  "acces": [
+  {
   "yes": 80,
   "no": 20,
-  "desc": "Accessibility"}
+  "desc": "Accessibility"
+  }
+  ],
+  "download": [
+    {
+    "yes": 33,
+    "no": 67,
+    "desc": "Download URL"
+    }
+   ]
+}
