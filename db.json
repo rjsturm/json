@@ -1,0 +1,304 @@
+{   
+  "downloads": [
+  {
+  "downloads": 437,
+  "day": "2018-11-21"
+  },
+  {
+  "downloads": 349,
+  "day": "2018-11-22"
+  },
+  {
+  "downloads": 285,
+  "day": "2018-11-23"
+  },
+  {
+  "downloads": 58,
+  "day": "2018-11-24"
+  },
+  {
+  "downloads": 141,
+  "day": "2018-11-25"
+  },
+  {
+  "downloads": 575,
+  "day": "2018-11-26"
+  },
+  {
+  "downloads": 472,
+  "day": "2018-11-27"
+  }
+  ],
+  "acces": [
+  {
+  "yes": 80,
+  "no": 20,
+  "desc": "Accessibility"
+  }
+  ],
+  "download": [
+    {
+    "yes": 33,
+    "no": 67,
+    "desc": "Download URL"
+    }
+   ],
+  "machinereadability": [
+    {
+     "yes": 55,
+     "no": 45,
+     "desc": "Machine Readability"
+     }
+    ],
+    "dcat": [
+     {
+      "yes": 94,
+      "no": 6,
+       "desc": "DCAT"
+       }
+     ],
+     "licence": [
+      {
+       "yes": 40,
+       "no": 60,
+        "desc": "DCAT"
+        }
+      ],
+      "errorcodes": [
+       {
+        "yes": 70,
+        "desc": "404 Error"
+         },
+         {
+         "yes": 30,
+         "desc": "403 Error"
+        },
+        {
+        "yes": 20,
+        "desc": "400 Error"
+         },
+         {
+        "yes": 10,
+        "desc": "500 Error"
+         }
+       ],
+       "mrusedformats": [
+        {
+         "yes": 15,
+         "desc": "CSV"
+          },
+          {
+          "yes": 12,
+          "desc": "unknown"
+         },
+         {
+         "yes": 11,
+         "desc": "GMZ"
+          },
+          {
+         "yes": 9,
+         "desc": "ZIP"
+          },
+          {
+          "yes": 8,
+          "desc": "TXT"
+         },
+         {
+         "yes": 7,
+         "desc": "HTML"
+          },
+          {
+         "yes": 6,
+         "desc": "JSON"
+          },
+          {
+         "yes": 5,
+         "desc": "PDF"
+          },
+          {
+         "yes": 4,
+         "desc": "XLS"
+          },
+          {
+         "yes": 3,
+         "desc": "XML"
+          }
+        ],
+        "usedlicences": [
+         {
+          "yes": 4,
+          "desc": "uk-ogl"
+           },
+           {
+           "yes": 4,
+           "desc": "cc-by"
+          },
+          {
+          "yes": 3,
+          "desc": "unknown"
+           },
+           {
+          "yes": 3,
+          "desc": "fr-lo"
+           },
+           {
+           "yes": 2,
+           "desc": "cc-by3-oat"
+          },
+          {
+          "yes": 2,
+          "desc": "cc-by 4.0"
+           },
+           {
+          "yes": 2,
+          "desc": "not specified"
+           },
+           {
+          "yes": 1,
+          "desc": "dl-de-by-2.0"
+           },
+           {
+          "yes": 1,
+          "desc": "cc-zero"
+           }
+         ],
+         "Information": [
+           { "infoID": 0,
+             "title": "Accessibility",
+             "desc": "Lorem Ipsum"
+           },
+           { "infoID": 1,
+             "title": "Download URL",
+             "desc": "Lorem Ipsum"
+           },
+           { "infoID": 2,
+             "title": "Error Status Code",
+             "desc": "Lorem Ipsum"
+           }
+         ],
+         "portals": [ 
+           {
+          "total": 200,
+          "per_page": 15,
+          "current_page": 1,
+          "last_page": 14,
+          "next_page_url": null,
+          "prev_page_url": null,
+          "from": 1,
+          "to": 15,
+          "data": [
+
+
+              {
+                "id": 1,
+                "photo": "https://image.flaticon.com/icons/svg/299/299952.svg",
+                "portal_name": "<a href='/#/Edp'>European Data Portal</a>",
+                "rating": "5",
+                "accessibility": "100%",
+                "machine_readability": "100%",
+                "dcat_ap": "100%",
+                "licence_usage": "100%",
+                "description": "lorem Ipsum",
+                "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 2,
+                  "portal_name": "UK Data Portal",
+                  "photo": "https://image.flaticon.com/icons/svg/299/299951.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 3,
+                  "portal_name": "French Open Data",
+                  "photo": "https://image.flaticon.com/icons/svg/300/300016.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 4,
+                  "portal_name": "Italy Data Portal",
+                  "photo": "https://image.flaticon.com/icons/svg/300/300198.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 5,
+                  "portal_name": "Greece Portal",
+                  "photo": "https://image.flaticon.com/icons/svg/300/300041.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 6,
+                  "portal_name": "European Data Portal",
+                  "photo": "https://image.flaticon.com/icons/svg/299/299952.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 7,
+                  "portal_name": "German Data Portal",
+                  "photo": "https://image.flaticon.com/icons/svg/300/300049.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 8,
+                  "portal_name": "Spain Data Portal",
+                  "photo": "https://image.flaticon.com/icons/svg/300/300083.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              },
+              {
+                  "id": 9,
+                  "portal_name": "Denmark Portal TEST",
+                  "photo": "https://image.flaticon.com/icons/svg/300/300037.svg",
+                  "rating": "5",
+                  "accessibility": "100%",
+                  "machine_readability": "100%",
+                  "dcat_ap": "100%",
+                  "licence_usage": "100%",
+                  "description": "lorem Ipsum",
+                  "download_link": "https://download.com/download"
+              }
+            ]
+            }
+            ]
+          
+  }
