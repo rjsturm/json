@@ -1,4 +1,4 @@
-{   
+  
   "Information": [
            { "infoID": 0,
              "title": "Accessibility",
@@ -12,4 +12,3 @@
              "title": "Error Status Code",
              "desc": "Lorem Ipsum"
            }
-}
