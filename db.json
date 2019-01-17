@@ -1,16 +1,15 @@
 {   
-  "acces": [
-  {
-  "yes": 80,
-  "no": 20,
-  "desc": "Accessibility"
-  }
-  ],
-  "download": [
-    {
-    "yes": 33,
-    "no": 67,
-    "desc": "Download URL"
-    }
-   ]
+  "Information": [
+           { "infoID": 0,
+             "title": "Accessibility",
+             "desc": "Lorem Ipsum"
+           },
+           { "infoID": 1,
+             "title": "Download URL",
+             "desc": "Lorem Ipsum"
+           },
+           { "infoID": 2,
+             "title": "Error Status Code",
+             "desc": "Lorem Ipsum"
+           }
 }
