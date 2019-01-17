@@ -1,16 +1,19 @@
-{  
+{   
   "Information": [
-           { "infoID": 0,
-             "title": "Accessibility",
-             "desc": "Lorem Ipsum"
-           },
-           { "infoID": 1,
-             "title": "Download URL",
-             "desc": "Lorem Ipsum"
-           },
-           { "infoID": 2,
-             "title": "Error Status Code",
-             "desc": "Lorem Ipsum"
-           }
-        ]
+  {
+  "infoID": 0,
+  "title": "Accessibility",
+  "desc": "lorem impsum"
+  },
+    {
+  "infoID": 1,
+  "title": "Download",
+  "desc": "lorem impsum"
+  },
+    {
+  "infoID": 2,
+  "title": "Error",
+  "desc": "lorem impsum"
+  }
+   ]
 }
